@@ -1,6 +1,6 @@
 # Challenge 4 - Console-Finance
 
-Challenge homework for 
+Challenge homework : 
 Challenge 4 - Project for 04-javascript-module 
 Task - Create code for analyzing the financial records of a company from a financial dataset 
 
@@ -58,7 +58,7 @@ Furthermore, I have become a little more familiar with working with GitHub and R
 
 Open the following webpage from any internet browser.
 
-![Challenge 3 - link to Steve Hannay Portfolio page](https://stevehannay.github.io/Bootstrap-Portfolio/)
+![Challenge 3 - link to Steve Hannay Portfolio page](https://stevehannay.github.io/Console-Finances/)
 
 No installation is necessary. 
 
@@ -95,6 +95,8 @@ The following information was referenced while coding the project.
 ![w3 schools - Flex box](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ![Get Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+![w3 schools - Javascript number formatting](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
 
 ## License
