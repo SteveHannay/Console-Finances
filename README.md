@@ -10,46 +10,41 @@ Completed - 2nd Jan 2024
 
 ## Description
 
-The aim of this project is to create a webpage to display a new portfolio of the different websites which I have built during the Bootcamp. The new portfolio will be built using Bootstrap code.
+The aim of this project is to create a webpage where the Console displays the results of the analysis.
 
-The following acceptance criteria was set for by the Bootcamp team for my portfolio webpage :
-
---------------------------------------------------------------------------------------------------------------------------
-
-    The website should include the following bootstrap components:
-
-    - A Navigation bar
-    - A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
-      - Include links that are applicable to your portfolio.
-        - Links should navigate to the appropriate sections 
-
-    - A hero section
-        - A jumbotron featuring your picture, your name, and any other information you'd like to include.
-
-    - A work section
-      - A section displaying your work in grid. 
-        - If you need to use placeholder image use: https://placehold.co/ 
-      - Use bootstrap cards for each project.
-        - The description should give a brief overview of the work.
-      - Each project will eventually link to your class project work!
-
-    - A skills section
-      - List out the skills you expect to learn from the bootcamp.
-
-    - An about / contact section.
-      - An "About Me" section in the same row.
-    
-    - A footer section.
-      - All hyperlinks should have a hover effect.
-      - All buttons should display a box shadow upon hover.
-
-    Your Bootstrap solution should minimize use of media queries.
+The following acceptance criteria was set for by the project :
 
 --------------------------------------------------------------------------------------------------------------------------
 
-During the process of working on this project I have learned more about the fundamentals of structured HTML and CSS coding, including the use of Flex boxes and images. 
+    Write JavaScript code that analyzes the records to calculate each of the following:
 
-I have also learned about Bootstrap code.
+    * The total number of months included in the dataset.
+
+    * The net total amount of Profit/Losses over the entire period.
+
+    * The average of the **changes** in Profit/Losses over the entire period.
+        * Track what the total change in Profit/Losses are from month to month and then find the average.
+    * (`Total/(Number of months - 1)`)
+
+    * The greatest increase in Profit/Losses (date and difference in the amounts) over the entire period.
+
+    * The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire period.
+
+    When openning the code in the browser the resulting analysis should look similar to the following:
+
+    ```text
+    Financial Analysis 
+    ----------------
+    Total Months: 86
+    Total: $38382578
+    Average Change: -2315.12
+    Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
+    Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
+    ```
+
+--------------------------------------------------------------------------------------------------------------------------
+
+During the process of working on this project I have learned more about the fundamentals of javascript coding, including the use of arrays, loops and conditional statements. 
 
 Furthermore, I have become a little more familiar with working with GitHub and ReadMe files.
 
@@ -58,25 +53,24 @@ Furthermore, I have become a little more familiar with working with GitHub and R
 
 Open the following webpage from any internet browser.
 
-![Challenge 3 - link to Steve Hannay Portfolio page](https://stevehannay.github.io/Console-Finances/)
+![Challenge 3 - link to Steve Hannay Console-Finance page](https://stevehannay.github.io/Console-Finances/)
 
 No installation is necessary. 
+
 
 
 ## Usage
 
 This is a very simple webpage to use.
 
-The top navigation panel provides navigation to the About Me, Work and Contact Details sections of the webpage.
+- Right-click on the webpage and select "Inspect" from the popup menu.
 
-The screenshots of the webpages displayed (the ones that I have already created) are clickable, so that the user can naviagate to them.
-
-The Contacts section contains clickable links to LinkedIn and GitHub.
+- Click on "Console" to view the Console. The Financial Analysis should be displayed here.
 
 
-Here are screenshots of the webpage created for the project.
+Here are screenshots of the Console for the webpage created for the project.
 
-![Challenge 3 - screenshot of Steve Hannay Portfolio page](images/screencapture-stevehannay-github-io-Bootstrap-Portfolio.png)
+![Challenge 3 - screenshot of Steve Hannay Console-Finance page](images/Console-Finances%20Screenshot.jpg)
 
 
 ## Credits
@@ -87,6 +81,8 @@ During the project I studied and used extracts of various code supplied by the B
 
 
 The following information was referenced while coding the project.
+
+![w3 schoole - Javascript multidimensional arrays](https://www.w3schools.com/java/java_arrays_multi.asp)
 
 ![w3 schools - Javascript number formatting](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
