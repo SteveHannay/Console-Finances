@@ -88,14 +88,6 @@ During the project I studied and used extracts of various code supplied by the B
 
 The following information was referenced while coding the project.
 
-![w3 schools - Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-
-![w3 schools - alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
-
-![w3 schools - Flex box](https://www.w3schools.com/css/css3_flexbox.asp)
-
-![Get Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
 ![w3 schools - Javascript number formatting](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
 
