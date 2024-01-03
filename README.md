@@ -53,7 +53,7 @@ Furthermore, I have become a little more familiar with working with GitHub and R
 
 Open the following webpage from any internet browser.
 
-![Challenge 3 - link to Steve Hannay Console-Finance page](https://stevehannay.github.io/Console-Finances/)
+![Challenge 3 - link to Steve Hannay Console-Finance page](https://stevehannay.github.io/Console-Finances)
 
 No installation is necessary. 
 
