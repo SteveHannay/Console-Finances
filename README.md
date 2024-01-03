@@ -82,9 +82,9 @@ During the project I studied and used extracts of various code supplied by the B
 
 The following information was referenced while coding the project.
 
-![w3 schoole - Javascript multidimensional arrays](https://www.w3schools.com/java/java_arrays_multi.asp)
+[w3 schoole - Javascript multidimensional arrays](https://www.w3schools.com/java/java_arrays_multi.asp)
 
-![w3 schools - Javascript number formatting](https://www.w3schools.com/jsref/jsref_tofixed.asp)
+[w3 schools - Javascript number formatting](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
 
 ## License
